@@ -1,4 +1,4 @@
-# Palouse Prarie Charter School Spring Expedition 2020 Timelines #
+# Palouse Prairie Charter School Spring Expedition 2020 Timelines #
 
 Palouse Prarie Charter School is proud to present the following student-curated timelines. Inspired by their work learning about Anna Murray Douglass, and her radical contributions to the better-known work of Frederick Douglass, students undertook these timelines with the goal of researching hidden histories and documenting events and people they found interesting. Each timeline is a little different, but tell its own story of that group's perspective on the subject at hand.
 
