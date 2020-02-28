@@ -4,7 +4,7 @@ Palouse Prarie Charter School is proud to present the following student-curated 
 
 # Anna Murray Douglass  #
 
-This timeline is about Anna Murray Douglass, it shows a few key elements of her life. She was a conductor on the Underground Railroad, she was a financial master, and she was the one who freed Frederick Douglass from slavery. Anna Murray needs a timeline because everyone pays attention to Frederick, and the men of history, however, Anna was the one who helped Frederick escape. <Authors pending>
+This timeline is about Anna Murray Douglass, it shows a few key elements of her life. She was a conductor on the Underground Railroad, she was a financial master, and she was the one who freed Frederick Douglass from slavery. Anna Murray needs a timeline because everyone pays attention to Frederick, and the men of history, however, Anna was the one who helped Frederick escape. This timeline was made by Camas, Felicia, and Alex.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FRDlNRmtUJFj0g72IzOM-9AiC5QJcIXEkQHzaikqyRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
