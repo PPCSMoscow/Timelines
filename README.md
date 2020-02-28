@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Palouse Prarie Charter School Spring Expedition 2020 Timelines #
 
-You can use the [editor on GitHub](https://github.com/PPCSMoscow/Timelines/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Palouse Prarie Charter School is proud to present the following student-curated timelines. Inspired by their work learning about Anna Murray Douglass, and her radical contributions to the better-known work of Frederick Douglass, students undertook these timelines with the goal of researching hidden histories and documenting events and people they found interesting. Each timeline is a little different, but tell its own story of that group's perspective on the subject at hand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Anna Murray Douglass  #
 
-### Markdown
+This timeline is about Anna Murray Douglass, it shows a few key elements of her life. She was a conductor on the Underground Railroad, she was a financial master, and she was the one who freed Frederick Douglass from slavery. Anna Murray needs a timeline because everyone pays attention to Frederick, and the men of history, however, Anna was the one who helped Frederick escape. <Authors pending>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FRDlNRmtUJFj0g72IzOM-9AiC5QJcIXEkQHzaikqyRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-```markdown
-Syntax highlighted code block
+# Idaho Black History Timeline #
 
-# Header 1
-## Header 2
-### Header 3
+The Idaho Black History Timeline was inspired by the lack of a condensed Black history of Idaho. In this timeline, we showed some of the most important events and African American people in Idaho. The timeline goes from 1805 to 1914. 
+This timeline was made by Jackson, Ty, and Isaac.
 
-- Bulleted
-- List
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DgTiu9gBV06rSPG-5Jj6HKhrMnC2Odtmtx-iT2PT-LI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-1. Numbered
-2. List
+# Women's History of Idaho #
 
-**Bold** and _Italic_ and `Code` text
+The inspirational history of Idaho feminist history! There was a lot of amazing feminists in Idaho. Some working hard for women's rights, other just being downright cool and showing everyone what a girl can do. All of this in little Idaho.
 
-[Link](url) and ![Image](src)
-```
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10MixkOLS_ZlpWxHp7Ob99iDo2MO_ZruAP-8QVFe46IQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Indigenous History of Idaho #
 
-### Jekyll Themes
+This next topic is about Indigenous people in Idaho in the 1700s-1900s. We chose this topic because we wanted to talk about the tribes of Idaho and we also wanted to put accurate information on it to the internet. We want to make it easier for a website that gives correct information instead of the wrong answer, a lot of websites have incorrect information (on Indigenous people and history). We worked very hard on this topic and there were times when we were not knowing what to do. But in the end, we pulled it off and we hope you like it.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PPCSMoscow/Timelines/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=193O-4T9xyiMZSG2iEP9VZW4xM74IK_4R4xYFIndzwCs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
